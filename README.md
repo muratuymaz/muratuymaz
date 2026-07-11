@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:muratuymaz440@gmail.com">
+  <a href="mailto:muratuymz0@gmail.com">
     <img src="https://img.shields.io/badge/Email-muratuymaz440%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/muratuymaz">
