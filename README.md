@@ -75,19 +75,6 @@ Software Engineering Foundations
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muratuymaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratuymaz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratuymaz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## What I'm Working Toward
 
 - Building beginner-friendly data science projects
