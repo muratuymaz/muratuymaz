@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:muratuymz0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muratuymaz440%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-muratuymz0%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/muratuymaz">
     <img src="https://img.shields.io/badge/GitHub-muratuymaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
