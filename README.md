@@ -15,7 +15,7 @@
 ## About Me
 
 I'm a Software Engineering student who has just moved into the 2nd year.  
-My main focus is  iimproving myselfn **Data Science**, **Machine Learning**, and building useful software projects step by step.
+My main focus is  improving myselfn **Data Science**, **Machine Learning**, and building useful software projects step by step.
 
 - Currently learning: **Python, data analysis, machine learning fundamentals**
 - Interested in: **AI, data visualization, algorithms, and web technologies**
@@ -55,7 +55,7 @@ Users can search countries, explore details, view popular places, compare countr
 **Built with:** HTML, CSS, JavaScript, Leaflet, Globe.gl, REST Countries API
 
 ### [Whack-a-Mole Game](https://github.com/muratuymaz/whack-a-mole-game)
-A single-player arcade game developed with C++ and SDL2.  
+A single-player arcade game developed with C++ and SDL for a Programming 2 course.
 It includes a state machine, score system, high-score table, sound effects, and dynamic gameplay.
 
 **Built with:** C++17, SDL2, CMake
